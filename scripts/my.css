@@ -1,0 +1,21 @@
+﻿body {
+}
+.home_stlpec {
+    width: 40%;
+}
+.glyphicon glyphicon-remove {
+    color: white;
+    background: white;
+}
+.obrazok {
+    background-image: url(../images/obr1.jpg);
+    height: 100px;
+}
+.logo_text {
+    height: 10%;
+    color: blue;
+    font-weight: 900;
+    font-size: 30px;
+    text-shadow: 20px 22px 2px #ffffff;
+}
+
